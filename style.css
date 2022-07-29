@@ -1,0 +1,33 @@
+#game div {
+    border: 1px solid black;
+    width: 15%;
+    height: 200px;
+    margin: 10px;
+    display: inline-block;
+cursor:pointer;
+border-radius: 20px;
+
+  }
+  #game div:hover{
+    border: 1px solid blueviolet;
+  }
+h1{
+    text-shadow: 2px 2px 2px #4F5B5F;
+    text-align: center;
+    font-size:80px;
+}
+.purple.visible{
+    background-color:purple;
+}
+.orange.visible{
+    background-color:orange;
+}
+.red.visible{
+    background-color:red;
+}
+.green.visible{
+    background-color:green;
+}
+.blue.visible{
+    background-color:blue;
+}
